@@ -18,6 +18,7 @@ Missing Data Handling, ways:
     - from row
   - Estimated Value (from another model)
 3. No Action
+4. Manual Handling
 
 When use ?  
 - Ignore Row
@@ -36,6 +37,8 @@ When use ?
   1. there is no applicable way to find it
   2. missings has low effect on model
   3. we cannot dispense with it
+- Manual Handling
+  1. number of missing is little and you can contact data source
 
 ---
 
